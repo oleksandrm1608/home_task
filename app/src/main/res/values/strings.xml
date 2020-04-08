@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Revolut home task</string>
+    <string name="server_connection_error">Rates is not updating, check your internet connection</string>
+    <string name="server_error">Something wrong with server</string>
+</resources>
